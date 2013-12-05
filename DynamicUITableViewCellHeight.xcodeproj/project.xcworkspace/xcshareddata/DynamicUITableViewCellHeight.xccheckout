@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>923445DB-4376-4FDA-B3DD-2DA5AD9CE78D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DynamicUITableViewCellHeight</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7D74611D-4EA8-46F7-BF73-696380419613</key>
+		<string>https://github.com/chenyongwei/DynamicUITableViewCellHeight.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DynamicUITableViewCellHeight/DynamicUITableViewCellHeight.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7D74611D-4EA8-46F7-BF73-696380419613</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chenyongwei/DynamicUITableViewCellHeight.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7D74611D-4EA8-46F7-BF73-696380419613</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7D74611D-4EA8-46F7-BF73-696380419613</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DynamicUITableViewCellHeight</string>
+		</dict>
+	</array>
+</dict>
+</plist>
